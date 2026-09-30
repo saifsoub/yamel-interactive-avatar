@@ -5,7 +5,7 @@
 ## What you get
 
 - Exact visual lock to the reference photo (white hard hat, blue work jacket, headphones, calm confident smile)
-- Self-contained interactive HTML embed (dark navy + #FF4F00 orange S/ aesthetic)
+- Self-contained interactive HTML embed (dark navy + #FF4F00 orange aesthetic)
 - Click → Talk with Yamel flow with player state
 - Ready for HyperFrames / HeyGen talking video layer
 - GitHub hosted & versioned
@@ -39,4 +39,4 @@
 
 ---
 
-Built by the **figma-hyperframes-avatar** skill for S/ Ecosystem.
+Built by the **figma-hyperframes-avatar** skill.
