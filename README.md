@@ -35,7 +35,7 @@
 
 - Dark navy `#0B1426`
 - Accent `#FF4F00`
-- Persona: Calm, capable, approachable Tech Strategist & Sovereign AI Builder • Dubai
+- Role: Calm, capable, approachable Technology Strategist & AI Builder • Dubai
 
 ---
 
